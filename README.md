@@ -6,7 +6,7 @@
 </h2>
 
 
-Hello! I am a **4th-year Computer Science student** with a passion for **software development** using **Java-based technologies**. My journey in the world of programming has been defined by my **goal-oriented** approach, **results-driven** mindset, and unyielding **ambition** to excel in the field of software development.
+Hello! I am a **Full Stack Software Engineer** with a passion for **software development** using **Java-based technologies**. My journey in the world of programming has been defined by my **goal-oriented** approach, **results-driven** mindset, and unyielding **ambition** to excel in the field of software development.
 
 ## Technical Skills
 
@@ -15,7 +15,7 @@ Hello! I am a **4th-year Computer Science student** with a passion for **softwar
 - **Automation tools:** JUnit, Mockito, build tools (Maven, Gradle)
 - **CI/CD:** GitLab, GitHub
 - **Databases:** MySQL, Oracle, Microsoft SQL Server, PostgreSQL, Hibernate
-- **Deployment:** Docker, Kubernetes
+- **Deployment:** Docker, OpenShift
 
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -23,7 +23,7 @@ Hello! I am a **4th-year Computer Science student** with a passion for **softwar
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+ height="40"/>&nbsp;
 </div>
 
 
